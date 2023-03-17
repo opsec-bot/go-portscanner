@@ -119,4 +119,5 @@ func main() {
 
 	elapsed := time.Since(start)
 	green("\nFinished scan | Took %.2f seconds\n", elapsed.Seconds())
+	fmt.Scanln()
 }
