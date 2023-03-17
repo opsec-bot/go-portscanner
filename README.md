@@ -16,6 +16,6 @@ Using this tool for malicious purposes, unauthorized access to systems, or any o
 
 2. Build the port scanner by running build.bat.
 
-3. Execute the compiled binary and follow the prompts to scan ports on a target.
+3. Execute the compiled binary and follow the prompts to scan ports on a target or input mulitple targets inside the input.txt file.
 
 `/release/portscanner.exe`
